@@ -1,1 +1,1 @@
-# CVLabs2020
+Laboratory works within the course "Computer vision"
